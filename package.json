@@ -1,0 +1,23 @@
+{
+  "name": "test-github-api",
+  "version": "1.0.0",
+  "description": "Test project for connecting to the Github API and fetch some data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiasosorio1999/test-github-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiasosorio1999/test-github-api/issues"
+  },
+  "homepage": "https://github.com/matiasosorio1999/test-github-api#readme",
+  "dependencies": {
+    "octokit": "^2.0.10"
+  }
+}

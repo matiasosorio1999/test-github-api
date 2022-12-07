@@ -4,7 +4,7 @@
   "description": "Test project for connecting to the Github API and fetch some data",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.mjs",
+    "dev": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
